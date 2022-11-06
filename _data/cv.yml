@@ -24,14 +24,16 @@
             - Sub-description 2.
 
 
-- title: Publications
-  type: nested_list
+- title: First-Author Publications
+  type: list
   contents:
-    - title: HMXBs 
-    - title: Binary Black Holer Mergers 
-      items:
-        - Description 1.
-        - Description 2.
+    - <b>Gallegos-Garcia, M :</b> BNS
+    - <b>Gallegos-Garcia, M :</b> HMXBs
+    - <b>Gallegos-Garcia, M :</b> BHs
+    - <b>Gallegos-Garcia, M :</b> stellar winds
+    - <b>Gallegos-Garcia, M :</b> tidal disruption events
+
+
 
 - title: Honors and Awards
   type: time_table
@@ -43,8 +45,13 @@
     - year: 2019
       title: 
         - Ford Foundation Predoctoral Fellowship
+    - year: 2018
+      title: 
+        - Dean's Senior Thesis Award
+    - year: 2018
+      title: 
+        - Mary L S. scholarship 
 
-    
 
 - title: Experience
   type: time_table
@@ -58,19 +65,19 @@
           contents:
             - Sub-description 1.
 
-
-
 - title: Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
-
-
 - title: Publications
-  type: list
+  type: nested_list
   contents:
-    - <b>Gallegos-Garcia, M :</b> HMXBs
-    - <b>Gallegos-Garcia, M :</b> black holes
+    - title: HMXBs 
+    - title: Binary Black Holer Mergers 
+      items:
+        - Description 1.
+        - Description 2.
+
 
 
