@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Northwestern University.
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   address: >
     <p>Evanston, IL</p>
 
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 5th year graduate student at Northwestern Univeristy working with Professor Vicky Kalogera. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a 5th year graduate student at Northwestern Univeristy working with Professor Vicky Kalogera. I am interested in binary star evolution.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
