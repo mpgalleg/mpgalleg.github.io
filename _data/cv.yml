@@ -62,3 +62,13 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+
+
+- title: Publications
+  type: list
+  contents:
+    - <b>Gallegos-Garcia, M :</b> HMXBs
+    - <b>Gallegos-Garcia, M :</b> black holes
+
+
