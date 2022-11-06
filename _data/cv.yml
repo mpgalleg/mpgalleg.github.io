@@ -1,6 +1,7 @@
 - title: Monica Gallegos-Garcia
   type: map
-  contents: selected CV items
+  contents: 
+    value: selected CV items
 
 - title: Education
   type: time_table
