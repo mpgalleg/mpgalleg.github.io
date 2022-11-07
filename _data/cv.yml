@@ -68,16 +68,8 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> the ocean, watercolor painting, cooking, lounging, being in the outdoors
 
-- title: Publications
-  type: nested_list
-  contents:
-    - title: HMXBs 
-    - title: Binary Black Holer Mergers 
-      items:
-        - Description 1.
-        - Description 2.
 
 
 
