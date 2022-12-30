@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: stellar winds in star clusters
 description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
