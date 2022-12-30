@@ -6,22 +6,14 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate (soon), Astronomy
+    - title: PhD Candidate, Astronomy
       institution: Northwestern University
-      year: 2018-present
-      description:
-        - Description 1.
-        - Description 2.
+      year: Sept 2018 - June 2024 (expected)
 
     - title: Bachelors in Science, Physics (Astrophysics)
       institution: University of California, Santa Cruz
       year: 2014-2018
-      description:
-        - Description 1.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+
 
 
 - title: First-Author Publications
@@ -58,18 +50,12 @@
   contents:
     - title: Research Mentor
       institution: Northwestern Univeristy
-      year: 2022 - present
+      year: Nov 2022 - present
       description:
         - Advisor to Ilia 
         - title: Description 3.
           contents:
             - Sub-description 1.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> the ocean, watercolor painting, cooking, lounging, being in the outdoors
-
 
 
 
