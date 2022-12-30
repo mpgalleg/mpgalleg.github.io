@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: origin of binary neutron star mergers
+title: origin of binary neutron star mergers
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work

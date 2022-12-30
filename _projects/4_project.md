@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: stellar winds in star clusters
+title: stellar winds in star clusters
+description: 
 img: assets/img/1.jpg
 importance: 3
 category: work

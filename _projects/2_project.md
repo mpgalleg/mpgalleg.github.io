@@ -1,6 +1,6 @@
 ---
 layout: page
-title: stellar winds in star clusters
+title: spins in high mass X-ray binaries
 description: a project with a background image
 img: assets/img/3.jpg
 importance: 2

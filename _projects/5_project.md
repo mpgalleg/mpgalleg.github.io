@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: tidal disruption events
+title: tidal disruption events
+description: 
 img: assets/img/1.jpg
 importance: 3
 category: work
