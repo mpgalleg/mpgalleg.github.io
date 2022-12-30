@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Tidal Disruption Events
+title: stable mass transfer 
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---

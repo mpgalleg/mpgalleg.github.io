@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 4
-description: another without an image
-img:
+description: stellar winds in star clusters
+img: assets/img/1.jpg
 importance: 3
 category: work
 ---
