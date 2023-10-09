@@ -15,5 +15,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 5th year graduate student at Northwestern Univeristy working with Professor Vicky Kalogera. I am interested in binary star evolution.
+I am a finishing graduate student at Northwestern Univeristy working with Professor Vicky Kalogera. I am interested building improved models for binary evolution in order to understand the formation mechanisms of gravitational wave sources. 
 

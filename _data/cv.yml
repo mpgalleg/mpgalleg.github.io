@@ -8,7 +8,7 @@
   contents:
     - title: PhD Candidate, Astronomy
       institution: Northwestern University
-      year: 2018 - 
+      year: 2018 - 2024 (expected)
 
     - title: Bachelors in Science, Physics (Astrophysics)
       institution: University of California, Santa Cruz
@@ -56,14 +56,43 @@
       institution: Honors and Highest Honors awarded to no more than 15 percent of graduating class.
 
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Research Mentor
+    - title: Research advisor to Ilia Kiato 
       institution: Northwestern Univeristy
       year: Nov 2022 - present
       description:
-        - Advisor to Ilia Qato
+        - We are using detailed stellar and binary simulations to explore the formation of neutron star - black hole binaries. 
+
+    - title: Graduate Student
+      institution: Northwestern Univeristy
+      year: September 2018 - present
+      description:
+        - Developing and implementing detailed stellar and binary evolution models and simulations to study compact object populations and merger progenitors. I plan to focus on improving binary evolution models to advance our understanding of how compact object mergers occur in the Universe.        
+
+    - title: Summer Research Fellow at Banneker and Aztlan Institute
+      institution: Center for Astrophysics,  Harvard University
+      year: Summer 2018
+      description:
+        - Studied stellar wind interactions in a star cluster using the 3D hydrodynamic simulation FLASH code. Specifically interested in the evolution of turbulence and kinetic energy injection scales in our simulations.
+
+    - title: Undergraduate Research Fellow at the UCSC Supercomputer Lab for Undergraduates
+      institution: University of California, Santa Cruz
+      year: Nov 2015 - August 2018
+      description:
+        - Implemented an analytical formalism to study the element abundance variations of the fallback material during tidal disruption events of main sequence stars of differing masses and ages.
+
+    - title: Summer Research Fellow at Banneker and Aztlan Institute
+      institution: Center for Astrophysics,  Harvard University
+      year: Summer 2017
+      description:
+        - Studied stellar wind interactions in different types of star clusters using the 3D hydrodynamic simulation FLASH code.
+    - title:  Lamat Summer Research Fellow
+      institution: University of California, Santa Cruz
+      year: Summer 2016
+      description:
+        - Developed python code to analytically describe the accretion rate of tidal disruption events for stars of varying polytropic index.
 
 
 
