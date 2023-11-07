@@ -6,7 +6,7 @@ subtitle: Astronomy Graduate Student at Northwestern University.
 
 profile:
   align: right
-  image: prof_pic_monica_2.jpeg
+  image: prof_pic_2.jpeg
   image_circular: false # crops the image to make it circular
   address:    
 
