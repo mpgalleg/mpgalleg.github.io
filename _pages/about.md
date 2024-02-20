@@ -15,5 +15,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a finishing graduate student at Northwestern Univeristy working with Professor Vicky Kalogera. I am interested in building improved models for binary evolution in order to advance our understanding of the formation mechanisms of gravitational wave sources. 
+I am a finishing graduate student at Northwestern University working with Professor Vicky Kalogera. I am interested in building improved models for binary evolution in order to advance our understanding of the formation mechanisms of gravitational wave sources. 
 
