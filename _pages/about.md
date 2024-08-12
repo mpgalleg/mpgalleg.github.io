@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Astronomy Graduate Student at Northwestern University.
+subtitle: 
 
 profile:
   align: right
