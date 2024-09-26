@@ -6,7 +6,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate, Astronomy
+    - title: Ph. D., Astronomy
       institution: Northwestern University
       year: 2018 - 2024 
 
@@ -56,13 +56,21 @@
       institution: Honors and Highest Honors awarded to no more than 15 percent of graduating class.
 
 
-- title: Research Experience
+- title: Research Appointments
   type: time_table
   contents:
 
+    - title: Junior Fellow at Society of Fellows
+      institution: Harvard University 
+      year: July 2024 - June 2027
+    
+   - title: ITC Fellow at the Institute for Theory and Computation  
+      institution: Harvard College Observatory 
+      year: June 2027 - June 2029 
+
     - title: Graduate Student
       institution: Northwestern Univeristy
-      year: Sept 2018 - present
+      year: Sept 2018 - 2024
       description:
         - Developing and implementing detailed stellar and binary evolution models and simulations to study compact object populations and merger progenitors. I plan to focus on improving binary evolution models to advance our understanding of how compact object mergers occur in the Universe.        
 
