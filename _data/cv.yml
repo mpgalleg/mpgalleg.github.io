@@ -59,16 +59,18 @@
 - title: Research Appointments
   type: time_table
   contents:
-  
+
     - title: Junior Fellow at Society of Fellows
       institution: Harvard University 
       year: July 2024 - June 2027
       description:
+      - test
     
    - title: ITC Fellow at the Institute for Theory and Computation  
       institution: Harvard College Observatory 
       year: June 2027 - June 2029 
       description:
+        - test
 
     - title: Graduate Student
       institution: Northwestern Univeristy
